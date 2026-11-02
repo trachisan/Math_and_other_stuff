@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Lab_4 Jherakova\bin\Debug\net10.0\Lab_4 Jherakova.exe
+C:\Users\User\Desktop\Lab_4 Jherakova\bin\Debug\net10.0\Lab_4 Jherakova.deps.json
+C:\Users\User\Desktop\Lab_4 Jherakova\bin\Debug\net10.0\Lab_4 Jherakova.runtimeconfig.json
+C:\Users\User\Desktop\Lab_4 Jherakova\bin\Debug\net10.0\Lab_4 Jherakova.dll
+C:\Users\User\Desktop\Lab_4 Jherakova\bin\Debug\net10.0\Lab_4 Jherakova.pdb
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\Lab_4 Jherakova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\Lab_4 Jherakova.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\Lab_4 Jherakova.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\Lab_4 Jherakova.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\Lab_4 Jherakova.dll
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\refint\Lab_4 Jherakova.dll
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\Lab_4 Jherakova.pdb
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\Lab_4 Jherakova.genruntimeconfig.cache
+C:\Users\User\Desktop\Lab_4 Jherakova\obj\Debug\net10.0\ref\Lab_4 Jherakova.dll
